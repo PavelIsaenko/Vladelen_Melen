@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>Git_study_MELEN</h1>'
